@@ -11,7 +11,8 @@
 omarchy theme install https://github.com/AkaraChen/omarchy-vitesse-black-theme
 ```
 
-The theme ships no `backgrounds/`, so applying it keeps your current wallpaper.
+Applying the theme sets its wallpaper, `backgrounds/1-contours.webp`, drawn from
+the theme's own palette.
 
 ## Other variants
 
@@ -32,3 +33,4 @@ The palette generator and editor adapters live in
 ## Credits
 
 - Palette and original design: [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) (MIT)
+- Wallpaper: original to this theme, rendered from its colors
